@@ -37,10 +37,10 @@ class MyApp extends StatelessWidget {
                     width: 200,
                     height: 200,
                     decoration: BoxDecoration(
-                      borderRadius: BorderRadius.circular(30),//sadik
+                      borderRadius: BorderRadius.circular(30), //sadik
                       image: DecorationImage(
                         image: AssetImage(
-                            'assets/images/C:/Users/Administrator/Desktop/lab05-master/assets/Screenshot 2025-02-19 122937.png'),
+                            'assets/Screenshot 2025-02-19 122937.png'),
                       ),
                     ),
                   ),
